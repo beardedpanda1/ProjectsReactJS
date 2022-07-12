@@ -1,0 +1,37 @@
+
+.title {
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: 'Lucida handwriting';
+    margin-top: 95px;
+    margin-left: 145px;
+}
+
+.sub {
+    font-size: 25px;
+    font-weight:bold;
+    font-family: 'Lucida handwriting';
+    margin-top: 20px;
+    margin-left: 215px;
+}
+
+.timer {
+    font-size: 60px;
+    font-weight:lighter;
+    font-family: 'Lucida handwriting';
+    margin-top: 70px;
+    margin-bottom: 120px;
+}
+
+.App {
+    background-image: url("/public/background2.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position:fixed;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
